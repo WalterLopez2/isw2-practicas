@@ -28,3 +28,6 @@ Los feature flags permiten activar o desactivar funciones mediante configuracion
 
 Asi se pueden integrar cambios sin exponer funciones incompletas.
 
+
+Los equipos deben revisar los cambios antes de integrarlos para mantener la calidad del codigo.
+
