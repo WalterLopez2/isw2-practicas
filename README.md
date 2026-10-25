@@ -26,8 +26,10 @@ isw2-practicas
 
 # \*\*Nombre:\*\* Walter Lopez
 
-\*\*Carrera:\*\* Ing Informatica 
+\*\*Carrera:\*\* Ing Informatica
+
 ## Índice de prácticas
+
 ===
 
 # 
@@ -48,5 +50,13 @@ isw2-practicas
 
 # 8\. Práctica 8 - Pendiente
 
-# 9\. Práctica 9 - Pendiente
+9\. Práctica 9 - Pendiente
+
+
+## Objetivo
+===
+
+# 
+
+# Practicar la identificación de code smells, la refactorización y el uso de Git para documentar mejoras de código.
 
