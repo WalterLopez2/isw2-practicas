@@ -9,7 +9,7 @@
 
 1. [Práctica 1 - Limpieza de código](practica-1/limpieza.md)
 2. [Práctica 2 - Git y flujo profesional](practica-2/flujo.md)
-3. Práctica 3 - Pendiente
+3. Práctica 3 - Refactor SOLID https://github.com/WalterLopez2/isw2-practicas/tree/main/practica-3 
 4. Práctica 4 - Pendiente
 5. Práctica 5 - Pendiente
 6. Práctica 6 - Pendiente
